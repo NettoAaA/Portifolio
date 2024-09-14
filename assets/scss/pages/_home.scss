@@ -193,7 +193,7 @@ header nav a {
 }
 
 .intro-text a::before {
-    content: url('/content/icon-arrow.png');
+    content: url('content/icon-arrow.png');
     width: 25px;
     height: 15px;
 
@@ -318,12 +318,12 @@ header nav a {
 }
 
 .p1 {
-    background-image: url('/content/thumbnails/project-flappy-thumbnail.png');
+    background-image: url('content/thumbnails/project-flappy-thumbnail.png');
     background-position: bottom;
 }
 
 .p2 {
-    background-image: url('/content/thumbnails/to-do-list-thumbnail.png');
+    background-image: url('content/thumbnails/to-do-list-thumbnail.png');
 }
 
 .soon {
